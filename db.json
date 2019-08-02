@@ -1,40 +1,40 @@
-  {
-    "properties": [
-      {
-        "domain": "vdcp",
-        "name": "countryBrandingWhitelist",
-        "type": "property",
-        "value": "US"
-      },
-      {
-        "domain": "vdcp",
-        "name": "countryBlacklist",
-        "type": "property",
-        "value": "IN,MX"
-      },
-      {
-        "domain": "vdcp",
-        "name": "countryBlacklist1",
-        "type": "property",
-        "value": ""
-      },
-      {
-        "domain": "vdcp",
-        "name": "srcBrandingWOWO",
-        "type": "property",
-        "value": "ON"
-      },
-      {
-        "domain": "vdcp",
-        "name": "srcBrandMerchantWhitelist",
-        "type": "property",
-        "value": "15d8eeef-8d60-eaeb-4b55-149aaf4d3701,15d8eeef-8d60-eaeb-4b55-149aaf4d3702,15d8eeef-8d60-eaeb-4b55-149aaf4d3703"
-      },
-      {
-        "domain": "rxo",
-        "name": "allowPasswordlessEnrollment",
-        "type": "property",
-        "value": "true"
-      }
-    ]
-  }
+{
+  "properties": [
+    {
+      "domain": "vdcp",
+      "name": "countryBrandingWhitelist",
+      "type": "property",
+      "value": "US"
+    },
+    {
+      "domain": "vdcp",
+      "name": "countryBlacklist",
+      "type": "property",
+      "value": "IN,MX"
+    },
+    {
+      "domain": "vdcp",
+      "name": "countryBlacklist1",
+      "type": "property",
+      "value": ""
+    },
+    {
+      "domain": "vdcp",
+      "name": "srcBrandingWOWO",
+      "type": "property",
+      "value": "ON"
+    },
+    {
+      "domain": "vdcp",
+      "name": "srcBrandMerchantWhitelist",
+      "type": "property",
+      "value": "15d8eeef-8d60-eaeb-4b55-149aaf4d3701,15d8eeef-8d60-eaeb-4b55-149aaf4d3702,15d8eeef-8d60-eaeb-4b55-149aaf4d3703"
+    },
+    {
+      "domain": "rxo",
+      "name": "allowPasswordlessEnrollment",
+      "type": "property",
+      "value": "true"
+    }
+  ]
+}
