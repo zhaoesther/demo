@@ -1,36 +1,42 @@
 {
   "properties": [
     {
+      "id": 1,
       "domain": "vdcp",
       "name": "countryBrandingWhitelist",
       "type": "property",
       "value": "US"
     },
     {
+      "id": 2,
       "domain": "vdcp",
       "name": "countryBlacklist",
       "type": "property",
       "value": "IN,MX"
     },
     {
+      "id": 3,
       "domain": "vdcp",
       "name": "countryBlacklist1",
       "type": "property",
       "value": ""
     },
     {
+      "id": 4,
       "domain": "vdcp",
       "name": "srcBrandingWOWO",
       "type": "property",
       "value": "ON"
     },
     {
+      "id": 5,
       "domain": "vdcp",
       "name": "srcBrandMerchantWhitelist",
       "type": "property",
       "value": "15d8eeef-8d60-eaeb-4b55-149aaf4d3701,15d8eeef-8d60-eaeb-4b55-149aaf4d3702,15d8eeef-8d60-eaeb-4b55-149aaf4d3703"
     },
     {
+      "id": 6,
       "domain": "rxo",
       "name": "allowPasswordlessEnrollment",
       "type": "property",
