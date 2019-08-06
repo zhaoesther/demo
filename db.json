@@ -37,30 +37,52 @@
     },
     {
       "id": 6,
+      "domain": "vdcp",
+      "name": "srcButtonMarkMetchantWhitelist",
+      "type": "property",
+      "value": ""
+    },        
+    {
+      "id": 7,
       "domain": "rxo",
       "name": "allowPasswordlessEnrollment",
       "type": "property",
       "value": "true"
     },
     {
-      "id": 7,
+      "id": 8,
       "domain": "vdcp",
       "name": "interopWOWO",
       "type": "property",
       "value": "ON"
     },
     {
-      "id": 8,
+      "id": 9,
       "domain": "vdcp",
       "name": "interopCountryExpmtWhitelist",
       "type": "property",
       "value": ""
     },
     {
+      "id": 10,
+      "domain": "vdcp",
+      "name": "interopCountryWhitelist",
+      "type": "property",
+      "value": ""
+    },    
+    {
+      "id": 11,
       "domain": "vdcp",
       "name": "interopMerchantBlacklist",
       "type": "property",
       "value": ""
+    },
+    {
+      "id": 12,
+      "domain": "vdcp",
+      "name": "interopNetworkBlacklist",
+      "type": "property",
+      "value": "MASTERCARD"
     }
   ]
 }
